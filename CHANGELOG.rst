@@ -2,6 +2,14 @@
 Changelog for package marti_common_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2016-10-23)
+------------------
+* Add StringArrayStamped message.
+* Contributors: Marc Alban
+
+0.0.5 (2016-08-14)
+------------------
+
 0.0.4 (2016-05-20)
 ------------------
 * Adding KeyValueArray message.
