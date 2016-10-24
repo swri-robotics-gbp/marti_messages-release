@@ -23,6 +23,8 @@ find_package(catkin REQUIRED COMPONENTS ${BUILD_DEPS})
 add_message_files(FILES
   Command.msg
   LeadVehicle.msg
+  Obstacle.msg
+  ObstacleArray.msg
   PathPlanning.msg
   Route.msg
   RoutePoint.msg
@@ -38,7 +40,9 @@ add_service_files(FILES
   GetRouteList.srv
   PlanRoute.srv
   SaveRecordedRoute.srv
+  SaveRoute.srv
   SetRoute.srv
+  UpdateRouteMetadata.srv
 )
 
 generate_messages(DEPENDENCIES ${MSG_DEPS})
