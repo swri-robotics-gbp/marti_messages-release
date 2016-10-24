@@ -1,3 +1,32 @@
+## marti_messages (indigo) - 0.0.6-0
+
+The packages in the `marti_messages` repository were released into the `indigo` distro by running `/usr/bin/bloom-release marti_messages --track indigo --rosdistro indigo` on `Mon, 24 Oct 2016 02:52:05 -0000`
+
+These packages were released:
+- `marti_can_msgs`
+- `marti_common_msgs`
+- `marti_nav_msgs`
+- `marti_perception_msgs`
+- `marti_sensor_msgs`
+- `marti_visualization_msgs`
+
+Version of package(s) in repository `marti_messages`:
+
+- upstream repository: https://github.com/swri-robotics/marti_messages.git
+- release repository: https://github.com/swri-robotics-gbp/marti_messages-release.git
+- rosdistro version: `0.0.5-0`
+- old version: `0.0.5-0`
+- new version: `0.0.6-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.39`
+
+
 ## marti_messages (indigo) - 0.0.5-0
 
 The packages in the `marti_messages` repository were released into the `indigo` distro by running `/usr/bin/bloom-release marti_messages --track indigo --ros-distro indigo` on `Mon, 15 Aug 2016 04:07:49 -0000`
