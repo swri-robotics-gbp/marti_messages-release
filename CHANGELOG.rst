@@ -2,6 +2,9 @@
 Changelog for package marti_nav_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2016-10-23)
+------------------
+
 0.0.5 (2016-08-14)
 ------------------
 * Adds new services to save a route and to update a route's metadata:
