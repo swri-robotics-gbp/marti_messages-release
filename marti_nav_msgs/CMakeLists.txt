@@ -32,10 +32,13 @@ add_message_files(FILES
   RouteSpeed.msg
   RouteSpeedArray.msg
   TeleopState.msg
+  TrackedObject.msg
+  TrackedObjectArray.msg
   VehicleControl.msg
 )
 
 add_service_files(FILES
+  DeleteRoute.srv
   GetRoute.srv
   GetRouteList.srv
   PlanRoute.srv
