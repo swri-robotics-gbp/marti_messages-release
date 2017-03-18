@@ -2,6 +2,11 @@
 Changelog for package marti_nav_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.8 (2017-03-18)
+------------------
+* Add GridMap message.
+* Contributors: Marc Alban
+
 0.0.7 (2017-02-06)
 ------------------
 * Add service to delete routes
