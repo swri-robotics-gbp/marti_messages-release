@@ -2,6 +2,14 @@
 Changelog for package marti_nav_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.0 (2017-08-29)
+------------------
+* AddRouteOffset Message (`#86 <https://github.com/swri-robotics/marti_messages/issues/86>`_)
+* Contributors: Matthew
+
+0.1.0 (2017-08-15)
+------------------
+
 0.0.9 (2017-05-08)
 ------------------
 * Add Wgs84Sample message type. (`#82 <https://github.com/swri-robotics/marti_messages/issues/82>`_)
