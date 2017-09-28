@@ -1,9 +1,11 @@
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package marti_visualization_msgs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package marti_status_msgs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 0.3.0 (2017-09-28)
 ------------------
+* Add marti_status_msgs and ChronyTrackingStatus message
+* Contributors: Matthew Bries, P. J. Reed
 
 0.2.0 (2017-08-29)
 ------------------
@@ -34,10 +36,6 @@ Changelog for package marti_visualization_msgs
 
 0.0.2 (2016-03-04)
 ------------------
-* Adds documentation to the textured marker message.
-* Contributors: Marc Alban
 
 0.0.1 (2015-09-22)
 ------------------
-* Initial Release
-* Contributors: Marc Alban, P. J. Reed
