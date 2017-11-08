@@ -2,6 +2,9 @@
 Changelog for package marti_status_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.0 (2017-11-08)
+------------------
+
 0.3.0 (2017-09-28)
 ------------------
 * Add marti_status_msgs and ChronyTrackingStatus message
