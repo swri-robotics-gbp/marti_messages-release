@@ -1,3 +1,33 @@
+## marti_messages (kinetic) - 0.4.0-0
+
+The packages in the `marti_messages` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release marti_messages -t kinetic -r kinetic` on `Wed, 08 Nov 2017 16:14:45 -0000`
+
+These packages were released:
+- `marti_can_msgs`
+- `marti_common_msgs`
+- `marti_nav_msgs`
+- `marti_perception_msgs`
+- `marti_sensor_msgs`
+- `marti_status_msgs`
+- `marti_visualization_msgs`
+
+Version of package(s) in repository `marti_messages`:
+
+- upstream repository: https://github.com/swri-robotics/marti_messages.git
+- release repository: https://github.com/swri-robotics-gbp/marti_messages-release.git
+- rosdistro version: `0.3.0-0`
+- old version: `0.3.0-0`
+- new version: `0.4.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## marti_messages (indigo) - 0.4.0-0
 
 The packages in the `marti_messages` repository were released into the `indigo` distro by running `/usr/bin/bloom-release marti_messages -t indigo -r indigo` on `Wed, 08 Nov 2017 16:05:18 -0000`
