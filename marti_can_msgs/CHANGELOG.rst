@@ -2,6 +2,11 @@
 Changelog for package marti_can_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.0 (2018-10-09)
+------------------
+* Update Maintainers
+* Contributors: P. J. Reed
+
 0.6.0 (2018-05-24)
 ------------------
 
