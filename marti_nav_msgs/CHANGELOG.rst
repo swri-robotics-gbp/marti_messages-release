@@ -2,6 +2,11 @@
 Changelog for package marti_nav_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.0 (2018-10-09)
+------------------
+* Add RouteArray.msg file
+* Contributors: Daniel-Stanek, P. J. Reed
+
 0.6.0 (2018-05-24)
 ------------------
 * Include route id with route position for disambiguation.
