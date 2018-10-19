@@ -1,0 +1,12 @@
+Source: ros-lunar-marti-nav-msgs
+Section: misc
+Priority: extra
+Maintainer: Marc Alban <malban@swri.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-geographic-msgs, ros-lunar-geometry-msgs, ros-lunar-marti-common-msgs, ros-lunar-message-generation, ros-lunar-sensor-msgs, ros-lunar-std-msgs
+Homepage: https://github.com/swri-robotics/marti_messages
+Standards-Version: 3.9.2
+
+Package: ros-lunar-marti-nav-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-geographic-msgs, ros-lunar-geometry-msgs, ros-lunar-marti-common-msgs, ros-lunar-message-runtime, ros-lunar-sensor-msgs, ros-lunar-std-msgs
+Description: marti_nav_msgs
