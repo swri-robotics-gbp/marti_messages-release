@@ -1,3 +1,33 @@
+## marti_messages (dashing) - 1.0.0-1
+
+The packages in the `marti_messages` repository were released into the `dashing` distro by running `/usr/bin/bloom-release -r dashing marti_messages` on `Fri, 04 Oct 2019 18:59:20 -0000`
+
+These packages were released:
+- `marti_can_msgs`
+- `marti_common_msgs`
+- `marti_nav_msgs`
+- `marti_perception_msgs`
+- `marti_sensor_msgs`
+- `marti_status_msgs`
+- `marti_visualization_msgs`
+
+Version of package(s) in repository `marti_messages`:
+
+- upstream repository: https://github.com/swri-robotics/marti_messages.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.16.1`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.42`
+
+
 ## marti_messages (melodic) - 0.8.0-0
 
 The packages in the `marti_messages` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic marti_messages` on `Fri, 19 Oct 2018 14:56:15 -0000`
