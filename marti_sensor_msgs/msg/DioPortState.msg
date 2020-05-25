@@ -2,7 +2,7 @@
 # the rtd_dm7820 driver to send digital input changes and accept
 # digital output commands.
 
-std_msgs/Header header
+Header header
 # header contains the time that the event occurred.
 
 uint64 value

@@ -2,11 +2,6 @@
 Changelog for package marti_visualization_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.0.0 (2019-10-04)
-------------------
-* Convert to ROS2 Dashing
-* Contributors: P. J. Reed
-
 0.8.0 (2018-10-19)
 ------------------
 

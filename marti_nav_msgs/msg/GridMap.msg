@@ -1,4 +1,4 @@
-std_msgs/Header header
+Header header
 
 # Map extents in the header frame.
 geometry_msgs/Point top_left

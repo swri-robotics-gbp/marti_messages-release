@@ -1,3 +1,3 @@
-std_msgs/Header header
+Header header
 
-builtin_interfaces/Time value
+time value

@@ -1,4 +1,4 @@
-std_msgs/Header header
+Header header
 
 int32   segment_type    # Type of path segment
 float32 length          # Length of path segment
@@ -26,7 +26,7 @@ int32 vehicle_track     # Whether we are tracking a vehicle (0-No, 1-Yes)
 bool transmitted        # Flag to indicate whether the path segment has been
                         # transmitted
 
-bool aux_transmitted
+bool auxTransmitted
 
 float32 theta_end       # End heading (provided explicitly)
 float32 k_end           # End curvature
@@ -38,4 +38,4 @@ float32 max_error
 float32 max_smooth
 float32 max_curv
 int32 possible_points
-bool exit_segment
+bool bExitSegment

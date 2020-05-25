@@ -1,4 +1,4 @@
-std_msgs/Header header
+Header header
 
 int32 pixel_x
 int32 pixel_y

@@ -1,6 +1,6 @@
 # Single axis linear velocity reading.
 
-std_msgs/Header  header           # The time and location of the measurement.
+Header  header           # The time and location of the measurement.
                          # The x-axis in the sensor space is interpreted as the
                          # axis of linear motion.
                          

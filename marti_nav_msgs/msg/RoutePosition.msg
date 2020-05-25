@@ -1,6 +1,6 @@
 # Position along route
 
-std_msgs/Header  header   # only stamp used
+Header  header   # only stamp used
 string  route_id # unique ID of the corresponding route
 string  id       # unique ID of nearest point
 float32 distance # forward along route, in meters from point identified by id

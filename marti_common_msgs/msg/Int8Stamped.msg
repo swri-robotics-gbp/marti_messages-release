@@ -1,3 +1,3 @@
-std_msgs/Header header
+Header header
 
 int8 value
