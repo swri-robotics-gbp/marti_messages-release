@@ -1,0 +1,12 @@
+Source: ros-noetic-marti-can-msgs
+Section: misc
+Priority: optional
+Maintainer: Marc Alban <malban@swri.org>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-message-generation, ros-noetic-std-msgs
+Homepage: https://github.com/swri-robotics/marti_messages
+Standards-Version: 3.9.2
+
+Package: ros-noetic-marti-can-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-message-runtime, ros-noetic-std-msgs
+Description: marti_can_msgs
