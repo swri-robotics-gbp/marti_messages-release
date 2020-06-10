@@ -1,14 +1,14 @@
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package marti_visualization_msgs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package marti_dbw_msgs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1.1.0 (2020-06-10)
 ------------------
+* Add marti dbw msgs (ROS2) (`#107 <https://github.com/swri-robotics/marti_messages/issues/107>`_)
+* Contributors: P. J. Reed, Matthew Bries
 
 1.0.0 (2019-10-04)
 ------------------
-* Convert to ROS2 Dashing
-* Contributors: P. J. Reed
 
 0.8.0 (2018-10-19)
 ------------------
@@ -57,10 +57,6 @@ Changelog for package marti_visualization_msgs
 
 0.0.2 (2016-03-04)
 ------------------
-* Adds documentation to the textured marker message.
-* Contributors: Marc Alban
 
 0.0.1 (2015-09-22)
 ------------------
-* Initial Release
-* Contributors: Marc Alban, P. J. Reed
