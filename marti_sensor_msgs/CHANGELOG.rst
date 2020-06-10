@@ -2,15 +2,19 @@
 Changelog for package marti_sensor_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.9.0 (2020-06-10)
+1.1.0 (2020-06-10)
 ------------------
-* Merge pull request `#101 <https://github.com/swri-robotics/marti_messages/issues/101>`_ from matt-attack/add-unknown-direction
-* Merge pull request `#98 <https://github.com/swri-robotics/marti_messages/issues/98>`_ from matt-attack/add-differential-heading
-* Merge branch 'add-differential-heading' of https://github.com/matt-attack/marti_messages into add-differential-heading
+* Merge pull request `#102 <https://github.com/swri-robotics/marti_messages/issues/102>`_ from matt-attack/dashing-diff
+* Merge pull request `#103 <https://github.com/swri-robotics/marti_messages/issues/103>`_ from matt-attack/dashing-dir
 * Fix out of bounds enum
 * Add unknown direction enum
 * Add differentialmeasurement message for DGPS/RTK
-* Contributors: Matthew, Matthew Bries, P. J. Reed
+* Contributors: Matthew Bries, P. J. Reed
+
+1.0.0 (2019-10-04)
+------------------
+* Convert to ROS2 Dashing
+* Contributors: P. J. Reed
 
 0.8.0 (2018-10-19)
 ------------------

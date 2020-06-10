@@ -13,30 +13,21 @@ If you have installed ROS, you can install any of the packages in this repositor
     sudo apt-get install ros-${ROS_DISTRO}-<package>
 
 
-Building From Source (ROS Kinetic, Melodic)
+Building From Source (ROS Dashing, Eloquent)
 -------------------------------------------------------
 
-These directions assume you have already set up a catkin workspace. See [this tutorial](http://wiki.ros.org/catkin/Tutorials/create_a_workspace) on the ROS Wiki for help setting up a catkin workspace.
+These directions assume you have already set up a colcon workspace
 
-### Checking out the source code (wstool)
+### Checking out the source code
 
-If you're using wstool, add this repository to your wstool workspace:
+If you're using wstool, add this repository to your workspace:
 
-    wstool set marti_messages --git https://github.com/swri-robotics/marti_messages.git
-
-### Checking out the source code (git)
-
-If you're not using wstool, you can check out the repositories with git:
-
-    git clone https://github.com/swri-robotics/marti_messages.git
+    git clone -b dashing-devel https://github.com/swri-robotics/marti_messages.git
 
 ### Installing dependencies and building
 
-Install all of the dependencies using rosdep by running the following command from the root of your catkin workspace:
+Install all of the dependencies using rosdep by running the following command from the root of your colcon workspace:
 
-    rosdep install --from-paths src --ignore-src
+    rosdep install . -y --from-paths -i
 
-Build the workspace with catkin\_make:
-
-    catkin_make
-
+Read the [Colcon Tutorial](https://index.ros.org//doc/ros2/Tutorials/Colcon-Tutorial/) for more information.
