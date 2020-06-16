@@ -250,5 +250,4 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/swri-robotics/marti_messages.git
-    version: 1.1.0
-    version_saved: :{auto}
+    version: :{auto}
