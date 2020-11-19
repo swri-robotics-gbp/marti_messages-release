@@ -1,0 +1,119 @@
+ros-melodic-marti-can-msgs (0.10.0-1bionic) bionic; urgency=high
+
+  * Add explicit dependencies on std_msgs (#110 <https://github.com/swri-robotics/marti_messages/issues/110>)
+  * Update minimum cmake version (#108 <https://github.com/swri-robotics/marti_messages/issues/108>)
+  * Contributors: P. J. Reed
+
+ -- Marc Alban <malban@swri.org>  Thu, 19 Nov 2020 06:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.9.0-1bionic) bionic; urgency=high
+
+
+
+ -- Marc Alban <malban@swri.org>  Wed, 10 Jun 2020 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.8.0-1bionic) bionic; urgency=high
+
+
+
+ -- Marc Alban <malban@swri.org>  Fri, 19 Oct 2018 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.7.0-1bionic) bionic; urgency=high
+
+  * Update Maintainers
+  * Contributors: P. J. Reed
+
+ -- Marc Alban <malban@swri.org>  Tue, 09 Oct 2018 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.6.0-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Thu, 24 May 2018 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.5.0-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Thu, 05 Apr 2018 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.4.0-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Wed, 08 Nov 2017 06:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.3.0-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Thu, 28 Sep 2017 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.2.0-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Tue, 29 Aug 2017 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.1.0-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Tue, 15 Aug 2017 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.0.9-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Mon, 08 May 2017 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.0.8-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Sat, 18 Mar 2017 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.0.7-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Mon, 06 Feb 2017 06:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.0.6-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Sun, 23 Oct 2016 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.0.5-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Sun, 14 Aug 2016 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.0.4-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Fri, 20 May 2016 05:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.0.3-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Fri, 11 Mar 2016 06:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.0.2-1bionic) bionic; urgency=high
+
+
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Fri, 04 Mar 2016 06:00:00 -0000
+
+ros-melodic-marti-can-msgs (0.0.1-1bionic) bionic; urgency=high
+
+  * Initial Release
+  * Contributors: Marc Alban, P. J. Reed
+
+ -- Elliot Johnson <elliot.johnson@swri.org>  Tue, 22 Sep 2015 05:00:00 -0000
+
+
