@@ -26,7 +26,7 @@ float32 classification_quality # Classification quality number [0,1]
 
 float32 existence_probability  # Existence probability [0,1]
 
-builtin_interfaces/Duration age_duration          # Age of the track since first detection.
-builtin_interfaces/Duration prediction_duration   # Age of the prediction since the active flag was last true.
+duration age_duration          # Age of the track since first detection.
+duration prediction_duration   # Age of the prediction since the active flag was last true.
 
 bool active                    # Active flag for if the objects is currently being detected.

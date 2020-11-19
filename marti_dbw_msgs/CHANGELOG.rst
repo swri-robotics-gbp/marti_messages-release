@@ -2,13 +2,17 @@
 Changelog for package marti_dbw_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.1.0 (2020-06-10)
-------------------
-* Add marti dbw msgs (ROS2) (`#107 <https://github.com/swri-robotics/marti_messages/issues/107>`_)
-* Contributors: P. J. Reed, Matthew Bries
+0.10.0 (2020-11-19)
+-------------------
+* Add explicit dependencies on std_msgs (`#110 <https://github.com/swri-robotics/marti_messages/issues/110>`_)
+* Update minimum cmake version (`#108 <https://github.com/swri-robotics/marti_messages/issues/108>`_)
+* Contributors: P. J. Reed
 
-1.0.0 (2019-10-04)
+0.9.0 (2020-06-10)
 ------------------
+* Merge pull request `#106 <https://github.com/swri-robotics/marti_messages/issues/106>`_ from matt-attack/add-dbw-msgs
+* Add marti_dbw_msgs package
+* Contributors: Matthew Bries, P. J. Reed
 
 0.8.0 (2018-10-19)
 ------------------
