@@ -2,6 +2,9 @@
 Changelog for package marti_sensor_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.2.0 (2020-11-19)
+------------------
+
 1.1.0 (2020-06-10)
 ------------------
 * Merge pull request `#102 <https://github.com/swri-robotics/marti_messages/issues/102>`_ from matt-attack/dashing-diff
