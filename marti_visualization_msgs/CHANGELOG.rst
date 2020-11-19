@@ -2,14 +2,16 @@
 Changelog for package marti_visualization_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.10.0 (2020-11-19)
--------------------
-* Add explicit dependencies on std_msgs (`#110 <https://github.com/swri-robotics/marti_messages/issues/110>`_)
-* Update minimum cmake version (`#108 <https://github.com/swri-robotics/marti_messages/issues/108>`_)
-* Contributors: P. J. Reed
-
-0.9.0 (2020-06-10)
+1.2.0 (2020-11-19)
 ------------------
+
+1.1.0 (2020-06-10)
+------------------
+
+1.0.0 (2019-10-04)
+------------------
+* Convert to ROS2 Dashing
+* Contributors: P. J. Reed
 
 0.8.0 (2018-10-19)
 ------------------

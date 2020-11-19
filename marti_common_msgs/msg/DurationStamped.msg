@@ -1,3 +1,3 @@
 std_msgs/Header header
 
-duration value
+builtin_interfaces/Duration value
