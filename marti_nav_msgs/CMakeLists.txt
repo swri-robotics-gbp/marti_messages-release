@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.0.2)
 project(marti_nav_msgs)
 
 set(MSG_DEPS
@@ -28,6 +28,8 @@ add_message_files(FILES
   Obstacle.msg
   ObstacleArray.msg
   PathPlanning.msg
+  Path.msg
+  PathPoint.msg
   Route.msg
   RouteArray.msg
   RouteOffset.msg
