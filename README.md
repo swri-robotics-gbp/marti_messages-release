@@ -1,3 +1,34 @@
+## marti_messages (melodic) - 0.10.0-2
+
+The packages in the `marti_messages` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic marti_messages` on `Wed, 22 Sep 2021 19:37:15 -0000`
+
+These packages were released:
+- `marti_can_msgs`
+- `marti_common_msgs`
+- `marti_dbw_msgs`
+- `marti_nav_msgs`
+- `marti_perception_msgs`
+- `marti_sensor_msgs`
+- `marti_status_msgs`
+- `marti_visualization_msgs`
+
+Version of package(s) in repository `marti_messages`:
+
+- upstream repository: https://github.com/swri-robotics/marti_messages.git
+- release repository: https://github.com/swri-robotics-gbp/marti_messages-release.git
+- rosdistro version: `0.10.0-1`
+- old version: `0.10.0-1`
+- new version: `0.10.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## marti_messages (rolling) - 1.2.0-1
 
 The packages in the `marti_messages` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling marti_messages` on `Thu, 02 Sep 2021 17:52:33 -0000`
