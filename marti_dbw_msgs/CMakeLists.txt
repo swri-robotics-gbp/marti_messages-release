@@ -1,32 +1,33 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.0.2)
+
 project(marti_dbw_msgs)
 
-set(CMAKE_CXX_STANDARD 14)
-
 set(MSG_DEPS 
-  builtin_interfaces 
   std_msgs)
 
-find_package(ament_cmake REQUIRED)
-find_package(rosidl_default_generators REQUIRED)
-find_package(builtin_interfaces REQUIRED)
-find_package(std_msgs REQUIRED)
+set(BUILD_DEPS
+  ${MSG_DEPS} 
+  message_generation)
+
+set(RUNTIME_DEPS
+  ${MSG_DEPS} 
+  message_runtime)
+
+### Catkin ###
+find_package(catkin REQUIRED COMPONENTS ${BUILD_DEPS})
 
 ### Message Generation ###
-set(MSG_FILES
-  msg/PrimaryControl.msg
-  msg/PrimaryFeedback.msg
-  msg/TransmissionFeedback.msg)
+add_message_files(DIRECTORY msg FILES
+  PrimaryControl.msg
+  PrimaryFeedback.msg
+  TransmissionFeedback.msg)
+generate_messages(DEPENDENCIES ${MSG_DEPS})
 
-rosidl_generate_interfaces(${PROJECT_NAME}
-  ${MSG_FILES}
-  DEPENDENCIES ${MSG_DEPS}
+### More Catkin ###
+catkin_package(
+  INCLUDE_DIRS include
+  CATKIN_DEPENDS ${RUNTIME_DEPS})
+
+install(DIRECTORY include/${PROJECT_NAME}/
+  DESTINATION ${CATKIN_PACKAGE_INCLUDE_DESTINATION}
 )
-
-install(DIRECTORY include/
-  DESTINATION include
-)
-
-ament_export_dependencies(rosidl_default_runtime)
-ament_package()
-
