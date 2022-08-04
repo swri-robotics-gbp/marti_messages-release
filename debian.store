@@ -1,1 +1,1 @@
-{"base": "85f53052", "parent": "debian/noetic/marti_can_msgs", "previous": "e98225fd", "trim": "", "trimbase": ""}
+{"trim": "", "base": "f77a413d", "trimbase": "", "parent": "debian/noetic/marti_can_msgs", "previous": "a84b6023"}
