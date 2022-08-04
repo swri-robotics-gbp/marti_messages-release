@@ -30,6 +30,11 @@ add_message_files(FILES
   PathPlanning.msg
   Path.msg
   PathPoint.msg
+  Plan.msg
+  PlanPoint.msg
+  PlanPointProperty.msg
+  PlanPosition.msg
+  PlanTrack.msg
   Route.msg
   RouteArray.msg
   RouteOffset.msg
@@ -41,6 +46,7 @@ add_message_files(FILES
   TrackedObject.msg
   TrackedObjectArray.msg
   VehicleControl.msg
+  VehicleParameters.msg
   Wgs84Sample.msg
 )
 
