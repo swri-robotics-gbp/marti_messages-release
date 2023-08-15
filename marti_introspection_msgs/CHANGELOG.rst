@@ -1,17 +1,31 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package marti_visualization_msgs
+Changelog for package marti_introspection_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 0.12.0 (2023-08-15)
 -------------------
+* Adding introspection changelog
 * Updating maintainer list (`#128 <https://github.com/swri-robotics/marti_messages/issues/128>`_)
 * Contributors: David Anthony
 
+* Updating maintainer list (`#128 <https://github.com/swri-robotics/marti_messages/issues/128>`_)
+* Contributors: David Anthony
+
+0.11.0 (2022-08-04)
+-------------------
+* Remove gitignore (`#118 <https://github.com/swri-robotics/marti_messages/issues/118>`_)
+  * Removing .gitignore from repo
+  * Updating author and version numbers
+* Merge pull request `#117 <https://github.com/swri-robotics/marti_messages/issues/117>`_ from daniel-dsouza/master
+  use correct syntax for add_message_files (`#1 <https://github.com/swri-robotics/marti_messages/issues/1>`_)
+* use correct syntax for add_message_files (`#1 <https://github.com/swri-robotics/marti_messages/issues/1>`_)
+* Merge pull request `#113 <https://github.com/swri-robotics/marti_messages/issues/113>`_ from matt-attack/add-autodoc
+  Add Messages For Autodocumentation
+* Move to marti_introspection_msgs
+* Contributors: Daniel D'Souza, David Anthony, Matthew Bries
+
 0.10.0 (2020-11-19)
 -------------------
-* Add explicit dependencies on std_msgs (`#110 <https://github.com/swri-robotics/marti_messages/issues/110>`_)
-* Update minimum cmake version (`#108 <https://github.com/swri-robotics/marti_messages/issues/108>`_)
-* Contributors: P. J. Reed
 
 0.9.0 (2020-06-10)
 ------------------
@@ -63,10 +77,6 @@ Changelog for package marti_visualization_msgs
 
 0.0.2 (2016-03-04)
 ------------------
-* Adds documentation to the textured marker message.
-* Contributors: Marc Alban
 
 0.0.1 (2015-09-22)
 ------------------
-* Initial Release
-* Contributors: Marc Alban, P. J. Reed
