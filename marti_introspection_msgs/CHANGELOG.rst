@@ -2,6 +2,9 @@
 Changelog for package marti_introspection_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.12.1 (2023-08-18)
+-------------------
+
 0.12.0 (2023-08-15)
 -------------------
 * Adding introspection changelog
