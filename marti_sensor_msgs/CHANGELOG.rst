@@ -2,6 +2,9 @@
 Changelog for package marti_sensor_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.12.2 (2023-11-03)
+-------------------
+
 0.12.1 (2023-08-18)
 -------------------
 * Fixed number of dashes in SetExposure Service call (`#130 <https://github.com/swri-robotics/marti_messages/issues/130>`_)
