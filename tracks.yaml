@@ -248,11 +248,11 @@ tracks:
     patches: null
     release_inc: '1'
     release_repo_url: git@github.com:swri-robotics-gbp/marti_messages-release.git
-    release_tag: :{version}
+    release_tag: 0.12.2
     ros_distro: noetic
     vcs_type: git
     vcs_uri: https://github.com/swri-robotics/marti_messages.git
-    version: :{auto}
+    version: 0.12.2
   rolling:
     actions:
     - bloom-export-upstream :{vcs_local_uri} :{vcs_type} --tag :{release_tag} --display-uri
